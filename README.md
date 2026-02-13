@@ -17,18 +17,24 @@
 
 ### 1. Install dependencies
 
+```zsh
 npm install
+```
 
 ### 2. Start development (Sass watch)
 
+```zsh
 npm run sass
+```
 
 ## Directory Structure
 
+```zsh
 src/
 └─ scss/
 ├─ layout/
 └─ style.scss
+```
 
 ## Author
 
