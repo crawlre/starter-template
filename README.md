@@ -36,6 +36,10 @@ src/
 └─ style.scss
 ```
 
+## Update
+
+Email fix test
+
 ## Author
 
 Keisuke Kudo
